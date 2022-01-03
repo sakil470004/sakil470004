@@ -10,7 +10,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sakil470004.sakil470004)
-[![Github](https://img.shields.io/github/followers/sakil470004?label=Follow&style=social)](https://github.com/sakil470004)
+[![Github](https://img.shields.io/github/followers/sakil470004?label=Follow&style=social)]
     <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="giphy">]
       
@@ -22,8 +22,10 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<!-- <img width="40%" align='right'  alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+  [<img align='right' width='40%' src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="180" alt="giphy">]
+  
+    
 - 🔭 I’m currently a student 
   
 - 🌱 I’m currently working Frontend and Backend with React
