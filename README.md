@@ -11,11 +11,12 @@
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sakil470004.sakil470004)
 [![Github](https://img.shields.io/github/followers/sakil470004?label=Follow&style=social)](https://github.com/sakil470004)
-
-<div size='20px'> Hi! My name is Mynul Islam. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
     <!--suppress HtmlDeprecatedAttribute -->
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+    
+<div size='20px'> Hi! My name is Mynul Islam. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
