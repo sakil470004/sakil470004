@@ -12,7 +12,8 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sakil470004.sakil470004)
 [![Github](https://img.shields.io/github/followers/sakil470004?label=Follow&style=social)]
     <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="giphy">]
+    <img width="180" align='right'  alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!-- [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="giphy">] -->
       
 <!-- [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="giphy">](https://t.me/voko_aleksey) -->
     
