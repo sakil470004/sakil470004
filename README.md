@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img width='200' src="https://i.ibb.co/23xcLbM/6744f33319119e4db7637ba5b49e5d78.webp" alt="6744f33319119e4db7637ba5b49e5d78" border="0" style="border-radius:50%">
+    <img src="https://i.ibb.co/grxVK2q/Man-sunglasses-portrait-avatar.jpg" alt="Man-sunglasses-portrait-avatar" width='250'>
 <!--     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png"> -->
 </p>
 
