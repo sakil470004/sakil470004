@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/grxVK2q/Man-sunglasses-portrait-avatar.jpg" alt="Man-sunglasses-portrait-avatar" width="150">
+    <img src="https://github.com/sakil470004/sakil470004/blob/main/mynul-cover.webp" alt="Man-sunglasses-portrait-avatar">
 </p>
 
 <h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
@@ -75,11 +75,6 @@ January 2000 - April 2024
 **Courses:**  
 - Complete Web Development Course With Jhankar Mahbub
 
-## Languages
-
-- **English:** Proficient
-- **Bangla:** Native
-- **Hindi/Urdu:** Familiar
 
 ## Connect with Me
 
