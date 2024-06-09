@@ -78,7 +78,7 @@ January 2000 - April 2024
 
 ## Connect with Me
 
-- [Portfolio](https://mynul-s-portfolio.netlify.app/)
+- [Portfolio](https://portfolio-2-0-sage-three.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/mynul-islam-sakil/)
 - [GitHub](https://www.github.com/sakil470004)
 
