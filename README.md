@@ -1,89 +1,128 @@
 <p align="center">
-    <img src="https://github.com/sakil470004/sakil470004/blob/main/mynul-cover.webp" alt="Man-sunglasses-portrait-avatar">
+    <img src="https://github.com/sakil470004/sakil470004/blob/main/mynul-cover.webp" alt="Mynul Islam - Full Stack Developer">
 </p>
 
-<h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
-
-<p align="center">
-    <a href="https://github.com/sakil470004">
-        <img src="https://img.shields.io/github/followers/sakil470004?label=Follow&style=social" alt="GitHub Followers">
-    </a>
-    <a href="https://www.linkedin.com/in/mynul-islam-sakil/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:mynul.sakil@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email">
-    </a>
-</p>
-
-<p align="center">
-    <img width="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GitHub">
-</p>
+<h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <div align="center">
-    <h2>Hi! I'm Mynul Islam. Thank you for visiting my GitHub Profile! 😊</h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1D91F4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" /></a>
 </div>
 
-## About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="50px">
+<p align="center">
+    <a href="https://www.linkedin.com/in/mynul-islam-sakil/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="mailto:mynul.sakil@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://portfolio-2-0-sage-three.vercel.app/">
+        <img src="https://img.shields.io/badge/-Portfolio-4A154B?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
+</p>
 
-- 🔭 I’m currently a student.
-- 🌱 I’m currently working on Frontend and Backend with Next.js.
-- 👯 I’m looking to collaborate on Next.js projects.
-- 💬 Ask me about Next.js, JavaScript.
+---
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px">
+## 🚀 About Me
 
-### Front-End
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/daisyui/daisyui.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/material-ui/material-ui.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/axios/axios.png" width="40px">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-### Back-End
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/stripe/stripe.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/jwt/jwt.png" width="40px">
+- 🔭 **Currently:** Full Stack Developer at Aliyah Holdings LLC (Remote)
+- 🌱 **Specializing in:** MERN Stack & Next.js applications
+- 💡 **Core Skills:** RESTful APIs, Real-time Systems, Payment Integration
+- 🏆 **Achievements:** 10% traffic boost through optimized web solutions
+- 📚 **Continuous Learning:** Advanced Next.js features & AWS services
 
-### Programming Languages
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40px">
+---
 
-### Databases
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40px">
+## ⚡ Technologies
 
-### Tools
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/netlify/netlify.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/chrome/chrome.png" width="40px">
+### Frontend Ecosystem
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui)
 
-## Projects
+### Backend Stack
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens)
 
-### Parts Market
-- Developed a car parts website using Next.js, Daisy UI, and Sweeper.js.
-- Implemented customer selection, client part management, and backend pagination.
-- Increased website traffic by 10%, enhancing the client's online presence and transactions.
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 
-### Fighting School
-- A MERN app with Firebase auth and Stripe integration.
-- Created distinct functionalities for admins, instructors, and students with responsive design and dark/light mode.
-- Streamlined user registration, login, course management, and payment processes.
+---
 
-### Battle Toys
-- A dynamic web platform for children's toys with seller management functionality.
-- Utilized Next.js, React Router, Tailwind CSS, Daisy UI, Firebase Auth, MongoDB, and Express JS.
-- Enhanced UX by providing a secure platform for sellers to manage toy listings.
+## 💼 Professional Experience
 
-## Education
+### **Full Stack Engineer** @ Aliyah Holdings LLC (Remote)
+- Led full development lifecycle for 70Languages.com using React & Tailwind
+- Engineered real-time chat system with Socket.io (300+ concurrent users)
+- Architected CI/CD pipeline with AWS EC2/S3 & Render
 
-**Manarat International University, Dhaka**  
-Bachelor’s Degree in Computer Science  
-January 2000 - April 2024  
-- Graduated with a GPA of 3.8.  
+### **Full Stack Developer Intern** @ Rapid Proposal LLC (Remote)
+- Built admin panel with CRUD operations handling 1k+ daily transactions
+- Optimized REST APIs improving response time by 40%
+- Implemented JWT authentication for 10k+ user base
 
-**Courses:**  
-- Complete Web Development Course With Jhankar Mahbub
+---
 
+## 🏆 Featured Projects
 
-## Connect with Me
+### Ticket Fusion (Event Management)
+[![Live Demo](https://img.shields.io/badge/-Live_Demo-4A154B?style=flat)](https://ticket-fusion.com)
+- Real-time booking system with Stripe payments
+- Guest list management & dynamic event pages
+- **Stack:** MERN, Firebase, Stripe, Tailwind
 
-- [Portfolio](https://portfolio-2-0-sage-three.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/mynul-islam-sakil/)
-- [GitHub](https://www.github.com/sakil470004)
+### Easy Bazaar (E-commerce Platform)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/sakil470004/easy-bazaar)
+- JWT-secured shopping experience
+- Product search optimization (90% accuracy)
+- **Stack:** React, Node.js, Firebase Auth, MongoDB
 
-## GitHub Stats
+### Battle Toys (Seller Marketplace)
+- Seller dashboard with inventory management
+- Secure payment gateway integration
+- **Stack:** Next.js, React Router, Tailwind, Firebase
 
-| ![Mynul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakil470004&show_icons=true&theme=tokyonight) | ![Mynul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakil470004&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakil470004&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=sakil470004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+---
+
+## 📚 Education
+
+**B.Sc. in Computer Science**  
+*Manarat International University (Jan 2020 - Apr 2024)*  
+- Relevant Coursework: Software Engineering, AI, Database Systems, Networking
+- GPA: 3.8/4.0
+
+**Professional Certification**  
+*Complete Web Development Course - Programming Hero*  
+- 600+ hours of intensive full-stack training
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakil470004&show_icons=true&theme=tokyonight">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakil470004&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakil470004&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🌐 Let's Connect!
+- 🖥️ [Portfolio](https://portfolio-2-0-sage-three.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mynul-islam-sakil/)
+- 📧 [Email](mailto:mynul.sakil@gmail.com)
+- 📱 [WhatsApp](https://wa.me/+8801581477504)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakil470004&color=blue&style=flat" alt="Profile Views">
+</p>
