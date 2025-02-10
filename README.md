@@ -33,7 +33,6 @@
 
 **Tools**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ---
