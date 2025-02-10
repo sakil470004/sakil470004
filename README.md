@@ -47,7 +47,7 @@
 
 **Full Stack Intern** @ Rapid Proposal LLC (Remote)  
 - Optimized REST APIs (40% performance improvement)
-- Developed admin panel handling 1k+ daily transactions
+- Developed admin panel handling daily transactions
 
 ---
 
