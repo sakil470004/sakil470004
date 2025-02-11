@@ -54,9 +54,9 @@
 
 | Project | Tech Stack | Key Features |
 |---------|------------|--------------|
-| **[Ticket Fusion](https://ticket-fusion.com)** | MERN, Stripe | Real-time booking, Payment integration |
+| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration |
 | **[Easy Bazaar](https://github.com/sakil470004/easy-bazaar)** | React, Firebase | JWT auth, Product search |
-| **[Battle Toys](https://battle-toys-5a066.web.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management |
+| **[Battle Toys](https://easy-bazar-ui.vercel.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management |
 
 ---
 
