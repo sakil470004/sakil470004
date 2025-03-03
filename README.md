@@ -42,7 +42,7 @@
 **Full Stack Engineer** @ Aliyah Holdings LLC (Remote)  
 - Led development of 70Languages.com with React/Tailwind
 - Built real-time chat system (Socket.io) for website users
-- Implemented CI/CD pipeline using AWS EC2/S3
+- Intregrate ChatGPT API and Google API(translate) in this app 
 
 **Full Stack Intern** @ Rapid Proposal LLC (Remote)  
 - Optimized REST APIs (40% performance improvement)
