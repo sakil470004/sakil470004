@@ -104,7 +104,7 @@ Programming Hero Certification (2023)
 ### 🏆 Certifications & Achievements
 
 - Programming Hero Certified Web Developer (2023)
-- Consistent Dean's List for academic excellence
+- Has Knowladge on Stock Market(DSE)
 
 ---
 
