@@ -83,10 +83,10 @@
 
 | Project | Tech Stack | Key Features | Links |
 |---------|------------|--------------|-------|
-| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration | [Demo](https://ticketfusion-ui.vercel.app/) [Client](https://github.com/sakil470004/ticketfusion-ui) [Server](https://github.com/sakil470004/ticketfusion-server) |
-| **[Easy Bazaar](https://easy-bazar-ui.vercel.app/)** | React, Firebase | JWT auth, Product search | [Demo](https://easy-bazar-ui.vercel.app/) [Client](https://github.com/sakil470004/easy-bazar-ui) [Server](https://github.com/sakil470004/easy-bazar-server) |
-| **[Battle Toys](https://battle-toys-5a066.web.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management | [Demo](https://battle-toys-5a066.web.app/) |
-| **[DevTools Pro](https://devtools-pro.netlify.app/)** | React, Tailwind | Developer utilities suite | [Demo](https://devtools-pro.netlify.app/) |
+| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration | [preview](https://ticketfusion-ui.vercel.app/) [Client](https://github.com/sakil470004/ticketfusion-ui) [Server](https://github.com/sakil470004/ticketfusion-server) |
+| **[Easy Bazaar](https://easy-bazar-ui.vercel.app/)** | React, Firebase | JWT auth, Product search | [preview](https://easy-bazar-ui.vercel.app/) [Client](https://github.com/sakil470004/easy-bazar-ui) [Server](https://github.com/sakil470004/easy-bazar-server) |
+| **[Battle Toys](https://battle-toys-5a066.web.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management | [preview](https://battle-toys-5a066.web.app/) |
+| **[DevTools Pro](https://devtools-pro.netlify.app/)** | React, Tailwind | Developer utilities suite | [preview](https://devtools-pro.netlify.app/) |
 
 ---
 
