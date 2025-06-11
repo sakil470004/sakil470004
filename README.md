@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Mynul Islam</h1>
-<h3 align="center">Full Stack Developer | Next.js Specialist</h3>
+<h3 align="center">Full Stack Developer | React Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mynul-islam-sakil/">
@@ -15,7 +15,7 @@
   <a href="https://portfolio-2-0-sage-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=flat&logo=vercel&logoColor=white">
   </a>
-  <a href="./Mynul_Islam-Full-Stack_Developer_Resume.pdf" download>
+  <a href="./resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=flat&logo=adobe-acrobat-reader&logoColor=white">
   </a>
 </p>
@@ -23,7 +23,23 @@
 ---
 
 <p align="center">
-  <b>Innovative Full Stack Developer</b> with a passion for building scalable web applications and user-centric solutions. Experienced in modern JavaScript frameworks, cloud deployment, and agile teams. Always eager to learn and take on new challenges.
+  <b>Innovative Full Stack Developer</b> with a passion for building scalable web applications and user-centric solutions.<br>
+  Experienced in modern JavaScript frameworks, cloud deployment, and agile teams.<br>
+  Always eager to learn and take on new challenges.
+</p>
+
+---
+
+<p align="center">
+  <a href="https://leetcode.com/u/mynul47/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/Sakil470004">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/profile/mynul_sakil">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -65,11 +81,12 @@
 
 ### 🚀 Highlighted Projects
 
-| Project | Tech Stack | Key Features |
-|---------|------------|--------------|
-| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration |
-| **[Easy Bazaar](https://easy-bazar-ui.vercel.app/)** | React, Firebase | JWT auth, Product search |
-| **[Battle Toys](https://battle-toys-5a066.web.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management |
+| Project | Tech Stack | Key Features | Links |
+|---------|------------|--------------|-------|
+| **[Ticket Fusion](https://ticketfusion-ui.vercel.app/)** | MERN, Stripe | Real-time booking, Payment integration | [Demo](https://ticketfusion-ui.vercel.app/) [Client](https://github.com/sakil470004/ticketfusion-ui) [Server](https://github.com/sakil470004/ticketfusion-server) |
+| **[Easy Bazaar](https://easy-bazar-ui.vercel.app/)** | React, Firebase | JWT auth, Product search | [Demo](https://easy-bazar-ui.vercel.app/) [Client](https://github.com/sakil470004/easy-bazar-ui) [Server](https://github.com/sakil470004/easy-bazar-server) |
+| **[Battle Toys](https://battle-toys-5a066.web.app/)** | Next.js, MongoDB | Seller dashboard, Inventory management | [Demo](https://battle-toys-5a066.web.app/) |
+| **[DevTools Pro](https://devtools-pro.netlify.app/)** | React, Tailwind | Developer utilities suite | [Demo](https://devtools-pro.netlify.app/) |
 
 ---
 
@@ -93,8 +110,8 @@ Programming Hero Certification (2023)
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakil470004&show_icons=true&theme=tokyonight">
+<p align="left">
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakil470004&show_icons=true&theme=tokyonight"> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakil470004&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakil470004&theme=tokyonight">
 </p>
@@ -102,5 +119,6 @@ Programming Hero Certification (2023)
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together!</i><br>
+  <a href="https://github.com/sakil470004/sakil470004.git">GitHub Repo</a>
 </p>
