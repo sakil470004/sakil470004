@@ -15,7 +15,7 @@
   <a href="https://portfolio-2-0-sage-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=flat&logo=vercel&logoColor=white">
   </a>
-  <a href="https://github.com/sakil470004/sakil470004/blob/main/resume.pdf" download="mynul_resume.pdf">
+  <a href="https://github.com/sakil470004/sakil470004/blob/main/resume.pdf" download="mynul_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6F00?style=flat&logo=adobe-acrobat-reader&logoColor=white">
   </a>
 </p>
